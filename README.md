@@ -1,2 +1,2 @@
 # cookbooks-
-Code recipes for quick reference for python, bash, sql, etc,
+Code recipes for python, bash, & sql
